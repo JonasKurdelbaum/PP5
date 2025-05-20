@@ -17,7 +17,7 @@ In this exercise you will:
 
 1. **Fork** this repository
 2. **Modify & commit** your solution
-3. **Submit your link for Review**
+3. **Submit your link for Review** 
 
 ---
 
